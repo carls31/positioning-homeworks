@@ -1,2 +1,2 @@
 # positioning-lab
-collections of the class works of the course "Positioning and Location Based Services" at Politecnico di Milano
+collection of the class works of the course "Positioning and Location Based Services" at Politecnico di Milano
